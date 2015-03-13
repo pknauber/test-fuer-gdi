@@ -1,4 +1,4 @@
-package uebung04;
+package uebung01;
 
 import static org.junit.Assert.*;
 import gdi.MakeItSimple.GDIException;

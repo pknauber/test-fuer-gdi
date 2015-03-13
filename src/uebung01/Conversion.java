@@ -1,4 +1,4 @@
-package uebung04;
+package uebung01;
 
 import static gdi.MakeItSimple.*;
 
