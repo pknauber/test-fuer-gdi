@@ -2,6 +2,8 @@ package uebung01;
 
 import static gdi.MakeItSimple.*;
 
+//
+
 public class Conversion {
 	
 	static int parseInteger(String digits) {
