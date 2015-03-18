@@ -2,7 +2,7 @@ package uebung01;
 
 import static gdi.MakeItSimple.*;
 
-// ein Kommentar 14
+// ein Kommentar 15
 
 public class Conversion {
 	
